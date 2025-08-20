@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Chirag  
 
-🚀 I’m a Software Developer at **ItNextSolution** with a passion for building **AI-powered systems, smart automation, and scalable web applications**.  
-
 🧠 I work at the intersection of **Machine Learning, Backend APIs, and Cloud DevOps**, turning complex data and models into real-world solutions.  
 
 ---
