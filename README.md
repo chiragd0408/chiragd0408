@@ -32,5 +32,4 @@
 
 ## 📬 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/chirag-dattatray-ranpise-2b1554244/)  
-- 🔗 [GitHub](https://github.com/chiragd0408)  
-- 📧 [chiragranpise.ml@gmail.com](mailto:chiragranpise.ml@gmail.com)  
+
